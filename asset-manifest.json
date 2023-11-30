@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/x-movies/static/css/main.d25de917.css",
+    "main.js": "/x-movies/static/js/main.a91dc81f.js",
+    "static/js/787.0c2da433.chunk.js": "/x-movies/static/js/787.0c2da433.chunk.js",
+    "static/media/bg-no-hard-feelings.jpeg": "/x-movies/static/media/bg-no-hard-feelings.e45597ec4f35b40b6a65.jpeg",
+    "static/media/no-hard-feelings-title.png": "/x-movies/static/media/no-hard-feelings-title.49d0899d3152f8b262ac.png",
+    "static/media/logo.png": "/x-movies/static/media/logo.3d1a59dfc454718d2d8f.png",
+    "index.html": "/x-movies/index.html",
+    "main.d25de917.css.map": "/x-movies/static/css/main.d25de917.css.map",
+    "main.a91dc81f.js.map": "/x-movies/static/js/main.a91dc81f.js.map",
+    "787.0c2da433.chunk.js.map": "/x-movies/static/js/787.0c2da433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25de917.css",
+    "static/js/main.a91dc81f.js"
+  ]
+}
