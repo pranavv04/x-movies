@@ -1,0 +1,55 @@
+.trailer{
+    position: relative;
+    visibility: hidden;
+    opacity: 0;
+    transform: scale(0);
+    z-index: 1000;
+    display: flex;
+    background-color:#0071e3;
+    width: 150px;
+    height: 45px;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    transition: 0.4s ease-in-out;
+    cursor: pointer;
+    float: right;
+}
+.trailer:hover{
+    transform: scale(1.1);
+}
+.banner .trailer.active{
+    visibility: visible;
+    opacity:1;
+    transform: scale(1);
+}
+.trailer p{
+    color: white;
+       font-size: 17px;
+    font-weight: 400;
+    /* margin-left: 20px; */
+    margin-bottom: 0;
+    letter-spacing: 1px;
+}
+.banner .playBtn{
+    position: relative;
+    color: white;
+    padding-right: 5px;
+    /* width: 80px; */
+    /* height: 80px; */
+    /* transition: 1s; */
+    /* z-index: 1000; */
+    /* background: transparent; */
+    /* backdrop-filter: blur(20px); */
+    /* border-radius: 50%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer !important;
+}
+.banner .playBtn ion-icon{
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+

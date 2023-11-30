@@ -1,0 +1,49 @@
+.banner .content{
+    position: relative;
+    max-width: 550px;
+    visibility: hidden;
+    opacity: 0;
+    transform: scale(0);
+    transition: 1;
+    z-index: 1000;
+}
+.banner .content.active{
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1)
+}
+.movie-title{
+    max-width: 240px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.banner .content h4{
+    color: rgba(255,255,2555,0.6);
+    font-weight: 400;
+    font-size: 25px;
+}
+.banner .content h4 span{
+    padding: 0 10px;
+    border-right: rgba(255,255,2555,0.6);
+}
+.banner .content h4 span:first-child{
+    padding-left: 0;
+}
+.banner .content h4 span:last-child{
+    border-right: 0;
+}
+.banner .content h4 span bold{
+    background:#0071e3;
+    color: white;
+    padding:0 8px;
+    font-weight: 900;
+    display: inline-block;
+    border-radius: 2px;
+}
+.banner .content p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5em;
+    color: white;
+    margin: 20px 0 30px;
+}

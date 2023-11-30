@@ -1,0 +1,49 @@
+.mainBtn{
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap:10px;
+    margin-right: 15px;
+    background-color:#0071e3 !important;
+    color: white;
+    padding: 5px 16px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    /* text-transform: upp; */
+    transition: 0.3s;
+    cursor: pointer !important;
+    border: none;
+    z-index: 10000; 
+    border-radius: 7px;
+}
+.mainBtn:hover{
+    color: white !important;
+    background:gray  !important;
+    cursor: pointer  !important;
+
+}
+@media screen and (max-width:912px) {
+    .mainBtn{
+        position: relative;
+        display: inline-flex;
+        align-items: center;
+        gap:10px;
+        margin-right: 15px;
+        background-color:#0071e3 !important;
+        color: white;
+        padding: 5px 16px;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 400;
+        letter-spacing: 1px;
+        /* text-transform: upp; */
+        transition: 0.3s;
+        cursor: pointer !important;
+        border: none;
+        z-index: 10000; 
+        border-radius: 7px;
+        width: 100px;
+    }
+}

@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+:root{
+  --primary: #ff3700;
+
+}
+body{
+  background: black;
+ font-family: 'Roboto', sans-serif;
+}
+body::-webkit-scrollbar{
+  display: none;
+}
