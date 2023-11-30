@@ -1,4 +1,39 @@
+Netlify link : x-movies-res.netlify.app
+
+![01](https://github.com/pranavv04/x-movies/assets/113121206/7654771e-579b-4c82-a91b-6920ac45ce2f)
+
+
+![2](https://github.com/pranavv04/x-movies/assets/113121206/a9f8ed30-810b-425e-8e81-5432702b4472)
+
+
+![3](https://github.com/pranavv04/x-movies/assets/113121206/19bd0d37-779e-4f47-a5b7-8985baa6c32e)
+
+
+![5](https://github.com/pranavv04/x-movies/assets/113121206/2417f5c5-6ad3-4f16-90e3-27f740410a30)
+
+
+![6](https://github.com/pranavv04/x-movies/assets/113121206/af4d489a-565e-441d-aba4-0e604e34756f)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
