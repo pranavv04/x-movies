@@ -2,7 +2,6 @@
 <a href="x-movies-res.netlify.app" src=" " >Netlify Link</a>
 <br/>
 <a href="x-moviesz.vercel.app" src=" " >Vercel Link</a>
-Vercel Link : 
 
 
 ![01](https://github.com/pranavv04/x-movies/assets/113121206/7654771e-579b-4c82-a91b-6920ac45ce2f)
