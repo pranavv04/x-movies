@@ -1,5 +1,8 @@
 Netlify link :
 x-movies-res.netlify.app
+<br/>
+
+Vercel Link : 
 x-moviesz.vercel.app
 
 ![01](https://github.com/pranavv04/x-movies/assets/113121206/7654771e-579b-4c82-a91b-6920ac45ce2f)
